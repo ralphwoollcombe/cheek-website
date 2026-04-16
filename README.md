@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍑 CHEEK — E-Commerce Platform
 
-## Getting Started
+A full-stack e-commerce website for CHEEK, a queer fashion brand specialising in handmade, customisable chaps designed for nightlife, festivals, and bold everyday wear.
 
-First, run the development server:
+## 🚧 Status: 
+In Development
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 What I'm Building
+- Full e-commerce flow with Stripe checkout
+- Interactive custom chaps configurator with real-time pricing
+- AI-powered style assistant
+- Admin dashboard for managing products and orders
+- Upcycling service submission portal
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
+- **Framework:** Next.js 14 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Database:** PostgreSQL (Supabase)
+- **ORM:** Prisma
+- **Payments:** Stripe
+- **AI:** OpenAI API
+- **Deployment:** Vercel
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤖 AI-Augmented Development
+This project uses an intentional AI-augmented workflow. All significant AI interactions are documented in [docs/ai-workflow-log.md](docs/ai-workflow-log.md).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📝 Development Progress
+- [x] Project initialisation
+- [x] Documentation structure
+- [ ] Header and navigation
+- [ ] Footer
+- [ ] Home page
+- [ ] Shop page
+- [ ] Product detail page
+- [ ] Custom order configurator
+- [ ] Cart and checkout
+- [ ] AI style assistant
+- [ ] Admin dashboard
+- [ ] Testing
+- [ ] Deployment
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📄 License
+All rights reserved. CHEEK brand and assets © 2025.
