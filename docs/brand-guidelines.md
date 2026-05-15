@@ -17,8 +17,8 @@
 ## 3. Typography
 | Type | Font Name | Usage |
 | :--- | :--- | :--- |
-| **Heading** |[Insert Font] | Page Titles, Hero Headlines, Logos |
-| **Body** | [Insert Font] | Paragraphs, Buttons, UI Labels, Nav |
+| **Heading** | Nerko One | Page Titles, Hero Headlines, Logos |
+| **Body** | Outfit | Paragraphs, Buttons, UI Labels, Nav |
 
 ## 4. Logo Usage
 *All logo files are located in `/public/images/`.*
