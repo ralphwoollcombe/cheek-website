@@ -57,11 +57,12 @@ This planning phase would have taken me 2-3 days of research to reach similar co
 (header, footer, mobile navigation), page routing
 **Tool used:** Claude (via Outlier Model Playground)
 
-**What I asked (summary):**
-Step-by-step instructions for setting up the Next.js 
-project, creating the component structure, building 
-responsive header/footer, and creating placeholder 
-page routes.
+**What I asked (prompt):**
+1. CONTEXT    → What is the project? What tech stack? What's already built?
+2. TASK       → What specific thing do you need right now?
+3. CONSTRAINTS → What are the limitations? (e.g., "no external libraries", "must work with existing MongoDB schema")
+4. FORMAT     → How do you want the output? (e.g., "give me the code with inline comments explaining each section")
+5. SCOPE      → Keep it small and focused
 
 **What it gave me:**
 - Exact terminal commands for project setup
